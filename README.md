@@ -1,4 +1,4 @@
-# Terminal Landing Page
+# Landing Page
 
 
-Just a quick mock up for a landing page
+Simple landing page using HTML, JS, CSS and a window library. 
